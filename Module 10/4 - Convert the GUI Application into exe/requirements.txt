@@ -1,0 +1,8 @@
+deepface==0.0.74
+matplotlib==3.5.1
+mediapipe==0.8.9.1
+numpy==1.22.3
+pymunk==6.2.1
+PyQt5==5.15.6
+qdarkstyle==3.0.3
+tensorflow==2.8.0
